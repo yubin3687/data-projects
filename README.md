@@ -13,7 +13,7 @@
 ##  Projects
 -  [카드사 데이터 기반 Segment 등급 예측 프로젝트](./segment-prediction/)
   - 고객의 소비 행동, 입출금 정보 등을 바탕으로 신용 등급을 예측하는 머신러닝 모델 개발 (LightGBM + Optuna)
--  [대한민국 고령화 분석 프로젝트](./aging-analysis/)
+-  [대한민국 고령화 분석 프로젝트](file:///C:/Users/USER/Downloads/3%EC%A1%B0%20%EB%AF%B8%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
   - 지역별 65세 이상 고령 인구 비중 추이와 복지 예산의 변화 등을 분석해 정책적 시사점 도출
 
 ---
