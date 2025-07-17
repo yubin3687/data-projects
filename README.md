@@ -23,6 +23,7 @@
 - MYSQL, Git, Jupyter Notebook
 - Tableau
 - 데이터 전처리 / 시각화 / 모델링 / 협업 및 발표
+- Machine Learning, Deep Learning
 
 ---
 
